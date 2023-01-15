@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     Text(
-      "Bienvenue",
+      "Bienvednue",
       style: TextStyle(fontSize: 40, fontWeight: FontWeight.bold),
     );
     return MaterialApp(
